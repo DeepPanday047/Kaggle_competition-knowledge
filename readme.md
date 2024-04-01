@@ -3,7 +3,7 @@
 
 # Natural Language Processing with Disaster Tweets
 
-  ![Disaster Tweets](https://github.com/DeepPanday047/Kaggle_Competition-Knowledge-/assets/106895885/a0a8f8b0-ef1c-4dfd-9994-b585f9be2544)
+  ![Disaster Tweets](https://github.com/DeepPanday047/Kaggle_competition-knowledge-/assets/106895885/a0a8f8b0-ef1c-4dfd-9994-b585f9be2544)
 
 
 
